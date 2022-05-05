@@ -6,7 +6,9 @@ The Text Analyzer analyze the text entered by the user. After clicking on the pr
 
 # Stacks used:
 1.HTML
+
 2.CSS
+
 3.JS
 
 Screenshot:
