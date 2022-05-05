@@ -1,12 +1,13 @@
 # Text_analyser
 
 This a web developmnet mini project.
+
 The Text Analyzer analyze the text entered by the user. After clicking on the process text, it will give information such as word count, character count, number of sentences, number of spaces, number of punctuators used in the text.
 
 # Stacks used:
-HTML
-CSS
-JS
+1.HTML
+2.CSS
+3.JS
 
 Screenshot:
 
